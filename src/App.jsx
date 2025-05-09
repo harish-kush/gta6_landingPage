@@ -150,9 +150,9 @@ function App() {
                 alt=""
               />
               <div className="text text-white flex flex-col gap-3 absolute top-20 left-1/2 -translate-x-1/2 scale-[1.4] rotate-[-10deg]">
-                <h1 className="text-[12rem] text-bold leading-none -ml-40">GRAND</h1>
-                <h1 className="text-[12rem] text-bold leading-none ml-20">THEFT</h1>
-                <h1 className="text-[12rem] text-bold leading-none -ml-40">AUTO</h1>
+                <h1 className="text-[12rem] text-bold font-extrabold leading-none -ml-40">GRAND</h1>
+                <h1 className="text-[12rem] text-bold font-extrabold leading-none ml-20">THEFT</h1>
+                <h1 className="text-[12rem] text-bold font-extrabold leading-none -ml-40">AUTO</h1>
               </div>
               <img
                 className="absolute h-full character -bottom-[150%] left-1/2 -translate-x-1/2  scale-[3] rotate-[-20deg]"
